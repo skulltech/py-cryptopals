@@ -10,7 +10,7 @@ This challenge is a good excuse to get a clear understanding of a few interrelat
 
 There's a [video](https://www.youtube.com/watch?v=MijmeoH9LT4&t=6s) on the [Computerphile](https://www.youtube.com/user/Computerphile/) channel in YouTube, (which I'm a big fan of) which explains this topic very simply and precisely. You can find that video [here](https://www.youtube.com/watch?v=MijmeoH9LT4&t=6s).
 
-`Add a basic explanation of the topic`
+`TODO: Add a basic explanation of the topic`
 
 ### _`Base64`_ Encoding
 
